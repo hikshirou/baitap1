@@ -15,7 +15,7 @@ module.exports = {
       },
       fontSize: {
         h1: ["72px","98px"]
-        lead1: ["18px","32px"]
+        
     },
   },
   plugins: [],
